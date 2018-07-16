@@ -444,7 +444,6 @@ var getYTPVideoID = function (url) {
          create the overlay
          */
         YTPlayer.overlay = jQuery("<div/>").css({
-          position: "absolute",
           top     : 0,
           left    : 0,
           width   : "100%",

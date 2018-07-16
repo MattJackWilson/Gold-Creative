@@ -1652,8 +1652,15 @@ General Styles - Owlcarousel
   width: 100%;
   z-index: 0;
   background-size: cover;
-  padding: 280px 0;
+  padding: 392px 0;
 }
+
+@media screen and (max-width: 900px){
+    .film-pause {
+        visibility: hidden
+    }
+}
+
 
 #filmHeader {
     width: 100%;

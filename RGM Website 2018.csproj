@@ -103,6 +103,8 @@
     <Content Include="assets\images\about\freelance\chris_mills.png" />
     <Content Include="assets\images\about\freelance\chuck_douglas.png" />
     <Content Include="assets\images\about\freelance\beatriz_lopez .png" />
+    <Content Include="assets\images\about\freelance\alex_mill.png" />
+    <Content Include="assets\images\about\freelance\tom_coe.png" />
     <Content Include="assets\images\about\freelance\lisa_chau.png" />
     <Content Include="assets\images\about\freelance\joe_lynn.png" />
     <Content Include="assets\images\about\freelance\dan_mc.png" />
@@ -253,7 +255,6 @@
     <Content Include="assets\lib\imagesloaded\imagesloaded.pkgd.js" />
     <Content Include="assets\lib\isotope\dist\isotope.pkgd.js" />
     <Content Include="assets\lib\jquery.mb.ytplayer\dist\jquery.mb.YTPlayer.js" />
-    <Content Include="assets\lib\jquery.mb.ytplayer\dist\jquery.mb.YTPlayer1.js" />
     <Content Include="assets\lib\jquery\dist\jquery.js" />
     <Content Include="assets\lib\magnific-popup\dist\jquery.magnific-popup.js" />
     <Content Include="assets\lib\magnific-popup\dist\magnific-popup.css" />
